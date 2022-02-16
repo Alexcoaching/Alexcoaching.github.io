@@ -59,6 +59,8 @@ body {
 .centerbloc1 {
     background-color: #e3e2ff;
     color: black;
-    height: 500px;
-    width: 1000px;
-  }
+    font:25px Impact;
+    border-radius: 10px;
+    height: 375px;
+    width: 1250px;
+}
